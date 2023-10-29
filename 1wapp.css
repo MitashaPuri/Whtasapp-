@@ -1,0 +1,99 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+.navbar{
+    height:700px;
+    width:35%;
+    background-color:black;
+    float:left;
+    border-right: 1px solid white;
+}
+.navbar .hzt_line{
+    width:99%;
+    height:50px;
+    background-color:#202C33;
+    margin:5px;
+    float:left;
+}
+.navbar .search_chat{
+    height:50px;
+    border-radius: 10px;
+    width:95%;
+    margin-left: 0px;
+    background-color:#202C33;
+    margin-top:15px;
+    float:left;
+}
+.search_chat p{
+    margin-left: 25px;
+    padding-top: 16px;
+    text-align: center;
+    color:grey;
+}
+.profile{
+    height:40px;
+    width:40px;
+    margin-left: 10px;
+    margin-top: 5px;
+    border-radius: 50%;
+    border:2px solid green;
+    float:left;
+}
+
+.chat_list{
+    height:550px;
+    width:100%;
+    background-color:#202C33;
+    float:left;
+    margin-top: 10px;
+}
+.chat_list:hover{
+    background-color: #2A3942;
+}
+.chat{
+    height:650px;
+    width:64%;
+    float:left;
+    background-color:#202C33;
+}
+.chat_menubar{
+    
+    width:99%;
+    height:50px;
+    background-color:#202C33;
+    margin:5px;
+    float:left;
+
+}
+.msgs{
+    height:480px;
+    width:100%;
+    float:left;
+    background-image: url(wp_back1.jpg);
+       background-size: 100% 100%;
+}
+.box_chat{
+    height:250px;
+    width:300px;
+    float:left;
+    margin-left: 10px;
+    margin-top: 17px;
+    background-color:#202C33;
+    border-radius: 10px ;
+}
+.foot{
+    height:50px;
+    width: 100%;
+    background-color: #202C33;
+   margin-bottom: 10px;
+}
+.foot_box{
+    width:80%;
+    margin-left: 20px;
+    height:50px;
+    float:left;
+    border-radius: 10px;
+    margin-top:10px;
+    background-color: #2A3942;
+}
